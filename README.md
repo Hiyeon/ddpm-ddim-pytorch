@@ -5,7 +5,7 @@
 DDPM (Denoising Diffusion Probabilistic Models) and DDIM (Denoising Diffusion Implicit Models) are generative models that differ primarily in their sampling techniques. Below are the equations representing the forward process, DDPM sampling, and DDIM sampling.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5a3f02a5-cb89-4daa-9ac8-cf73e06828b2" alt="comparison_image" width="500">
+  <img src="https://github.com/user-attachments/assets/362f66d0-1ef2-494a-9c65-965443956b04" alt="comparison_image" width="500">
 </div>
 
 ## Usage
