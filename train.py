@@ -87,7 +87,7 @@ def train(dataset, n_epoch: int = 100, device: str = 'cpu', sampling: str = 'ddp
 
     print("Sampling:", sampling)
 
-    eps_model = UNetModel(in_channels=1, out_channels=1) #DummyEpsModel(1)
+    eps_model = UNetModel(in_channels=1, out_channels=1)
 
     print("Num params: ", sum(p.numel() for p in eps_model.parameters()))
 
